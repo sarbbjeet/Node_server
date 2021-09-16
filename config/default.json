@@ -1,0 +1,7 @@
+{
+    "DB_URL": "mongodb://localhost/nodeServer",
+    "WEATHER_API_URL": "https://api.openweathermap.org/data/2.5/weather?",
+    "API_KEY": "28c68cced5e23e933692906d9e8feaa8",
+    "NEWS_API_URL": "",
+    "GET_CURRENT_ADDRESS": "http://www.geoplugin.net/json.gp"
+}
